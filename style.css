@@ -9,10 +9,12 @@ padding: 16px;
 main {
 background-color: #FFFFFF;
 color: #183C63;
+display: flex;
 }
 img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%; /* Defina uma largura para que a margem funcione */
+width: 80px;
+height: 80px;
+}
+.artigo-autor {
+font-weight: bold;
 }
