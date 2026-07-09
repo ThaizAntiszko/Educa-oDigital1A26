@@ -8,6 +8,9 @@ text-align: center;
 margin: 0 auto;
 padding: 16px;
 }
+.artigo-autor {
+    font-weight: bold;
+}
 main {
 background-color: #c8d6d8;
 color: #2da3bb;
