@@ -12,10 +12,12 @@ padding: 16px;
 main {
 background-color: #04010c;
 color: #2da3bb;
-max-width: 800px;
 margin: 0 auto;
-padding: 16px;
+    padding: 16px;
+    display: flex; 
+    flex-wrap: wrap;
 }
+
   article{
  display:flex;
  padding: 16px;
