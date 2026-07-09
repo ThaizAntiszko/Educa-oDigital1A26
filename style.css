@@ -40,3 +40,8 @@ height: 80px;
 .artigo-autor {
 font-weight: bold;
 }
+h2,
+p,
+button {
+    margin-bottom: 12px;
+}
