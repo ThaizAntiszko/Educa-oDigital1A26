@@ -68,8 +68,8 @@ padding: 16px;
     font-weight: bold;
 }
 main {
-background-color: #c8d6d8;
-color: #2da3bb;
+background-color: var(--cor-fundo);
+    color: var(--cor-primaria);
 margin: 0 auto;
     padding: 16px;
     display: flex; 
