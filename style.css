@@ -15,7 +15,7 @@
 }
 
 .tema-escuro {
-    --cor-primaria: #A6CEFE;
+    --cor-primaria: #4994eb;
     --cor-secundaria: #98caff;
     --cor-fundo: #0f172a;
     --cor-texto: #ffffff;
@@ -69,7 +69,7 @@ padding: 16px;
 }
 main {
 background-color: var(--cor-fundo);
-    color: var(--cor-primaria);
+color: var(--cor-primaria);
 margin: 0 auto;
     padding: 16px;
     display: flex; 
