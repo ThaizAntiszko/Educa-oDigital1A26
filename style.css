@@ -1,6 +1,4 @@
-* {
-    transition: background-color 0.8s ease;
-}
+
 
 :root {
     --cor-primaria: #183C63;
@@ -11,6 +9,9 @@
     --cor-botao: #f9f9f9;
 
     --fonte-texto: 'Segoe UI', sans-serif;
+}
+* {
+    transition: background-color 0.8s ease;
 }
 
 .tema-escuro {
